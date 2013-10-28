@@ -39,6 +39,8 @@ void v_initializer_test() {
 int main() {
 	std::cout << "hello!" << std::endl;
 
+	std::cout << "git test ala ma kota" << std::endl;
+
 //	v_initializer_test();
 
 	return 0;

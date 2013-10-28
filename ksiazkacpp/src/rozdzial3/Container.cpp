@@ -5,17 +5,9 @@
  *      Author: piot
  */
 
-#include "C:Container.h"
+#include "Container.h"
 
 namespace piot {
 
-Container::Container() {
-	// TODO Auto-generated constructor stub
-
-}
-
-Container::~Container() {
-	// TODO Auto-generated destructor stub
-}
 
 } /* namespace piot */
